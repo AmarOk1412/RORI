@@ -1,0 +1,15 @@
+[submodule "clients/rori_discord_bot"]
+	path = clients/rori_discord_bot
+	url = git@github.com:AmarOk1412/rori_discord_bot.git
+[submodule "clients/rori_desktop_endpoint"]
+	path = clients/rori_desktop_endpoint
+	url = git@github.com:AmarOk1412/rori_desktop_endpoint.git
+[submodule "clients/irc_entry_module"]
+	path = clients/irc_entry_module
+	url = git@github.com:AmarOk1412/irc_entry_module.git
+[submodule "rori_www"]
+	path = rori_www
+	url = git@github.com:AmarOk1412/rori_www.git
+[submodule "rori_server"]
+	path = rori_server
+	url = git@github.com:AmarOk1412/rori_server.git
