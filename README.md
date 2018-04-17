@@ -36,6 +36,8 @@ This is a meta repository to group all related projects about **RORI**.
 
 + [`rori_core`](https://github.com/AmarOk1412/rori_core): the main repository for **RORI >4.0.0**. All documentation is in the [wiki](https://github.com/AmarOk1412/rori_core/wiki) of this project.
   + [`rori_modules`](https://github.com/AmarOk1412/rori_modules): all **RORI** modules.
++ clients for entry and endpoints
+  + [`rori_linux_client`](https://github.com/AmarOk1412/rori_linux_client): a client for linux desktops
 + `rsc`: images, design, etc
 + Next repos: `rori_www` (for the website), **RORI** clients (linux, discord and IRC).
 

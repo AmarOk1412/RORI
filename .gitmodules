@@ -1,3 +1,6 @@
 [submodule "rori_core"]
 	path = rori_core
 	url = git@github.com:AmarOk1412/rori_core.git
+[submodule "clients/rori_linux_client"]
+	path = clients/rori_linux_client
+	url = git@github.com:AmarOk1412/rori_linux_client.git
