@@ -4,3 +4,6 @@
 [submodule "clients/rori_linux_client"]
 	path = clients/rori_linux_client
 	url = git@github.com:AmarOk1412/rori_linux_client.git
+[submodule "clients/rori_discord_bot"]
+	path = clients/rori_discord_bot
+	url = git@github.com:AmarOk1412/rori_discord_bot.git

@@ -37,6 +37,7 @@ This is a meta repository to group all related projects about **RORI**.
 + [`rori_core`](https://github.com/AmarOk1412/rori_core): the main repository for **RORI >4.0.0**. All documentation is in the [wiki](https://github.com/AmarOk1412/rori_core/wiki) of this project.
   + [`rori_modules`](https://github.com/AmarOk1412/rori_modules): all **RORI** modules.
 + clients for entry and endpoints
+  + [`rori_discord_bot`](https://github.com/AmarOk1412/rori_discord_bot): a client for Discord servers
   + [`rori_linux_client`](https://github.com/AmarOk1412/rori_linux_client): a client for linux desktops
 + `rsc`: images, design, etc
 + Next repos: `rori_www` (for the website), **RORI** clients (linux, discord and IRC).
@@ -70,4 +71,4 @@ For more infos and ideas read [CONTRIBUTING.md](https://github.com/AmarOk1412/ro
 + clients:
   + [`irc_entry_module`](https://github.com/AmarOk1412/irc_entry_module/tree/153979025191ea08a070f74d5b22569b7195d8a3) old irc client
   + [`rori_desktop_endpoint`](https://github.com/AmarOk1412/rori_desktop_endpoint/tree/d088e2d4a08947638a836fe38ad7f8f179b604e4) old desktop client
-  + [`rori_discord_bot`](https://github.com/AmarOk1412/rori_discord_bot/tree/07537de20f56d3f00c13e531770ffb242075e42c) old discord client
+  + [`rori_discord_bot`](https://github.com/AmarOk1412/rori_discord_bot_old/tree/07537de20f56d3f00c13e531770ffb242075e42c) old discord client
